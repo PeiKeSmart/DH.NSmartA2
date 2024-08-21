@@ -2,7 +2,7 @@ name: publish-beta
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
     paths:
         - 'DH.NSmartA2/**'
   workflow_dispatch:
