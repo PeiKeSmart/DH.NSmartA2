@@ -17,12 +17,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NewLife.Core" Version="10.7.2024.202" />
-    <PackageReference Include="NewLife.IoT" Version="2.1.2024.203" />
+    <PackageReference Include="DH.NCore" Version="3.7.2024.820" />
+    <PackageReference Include="DH.NIoT" Version="3.7.2024.820-beta0922" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\SmartA2\SmartA2.csproj" />
+    <ProjectReference Include="..\..\DH.NSmartA2\DH.NSmartA2.csproj" />
   </ItemGroup>
 
 </Project>
