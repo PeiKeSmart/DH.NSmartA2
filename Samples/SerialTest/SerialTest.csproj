@@ -17,8 +17,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DH.NCore" Version="3.7.2024.918-beta0619" />
-    <PackageReference Include="DH.NIoT" Version="3.7.2024.918-beta0923" />
+    <PackageReference Include="DH.NCore" Version="3.7.2024.919-beta1606" />
+    <PackageReference Include="DH.NIoT" Version="3.7.2024.920-beta0135" />
   </ItemGroup>
 
   <ItemGroup>
